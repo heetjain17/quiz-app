@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Automated Programming Interface",
+      "Application Process Integration",
+      "Automated Process Interaction"
+    ],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "id": 2,
+    "question": "In version control, what does 'git clone' do?",
+    "options": [
+      "Creates a new branch",
+      "Commits changes to the repository",
+      "Creates a local copy of a remote repository",
+      "Merges two branches together"
+    ],
+    "answer": "Creates a local copy of a remote repository"
+  },
+  {
+    "id": 3,
+    "question": "Which HTTP status code means 'Not Found'?",
+    "options": ["200", "404", "500", "301"],
+    "answer": "404"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is NOT a primitive data type in JavaScript?",
+    "options": ["String", "Number", "Object", "Boolean"],
+    "answer": "Object"
+  },
+  {
+    "id": 5,
+    "question": "What is the primary service provided by Amazon Web Services (AWS) S3?",
+    "options": [
+      "Virtual Servers",
+      "Database Management",
+      "Object Storage",
+      "Machine Learning"
+    ],
+    "answer": "Object Storage"
+  },
+  {
+    "id": 6,
+    "question": "What does DNS stand for in computer networking?",
+    "options": [
+      "Dynamic Network System",
+      "Domain Name System",
+      "Data Naming Service",
+      "Direct Network Socket"
+    ],
+    "answer": "Domain Name System"
+  },
+  {
+    "id": 7,
+    "question": "In the Linux command line, what command is used to list the contents of a directory?",
+    "options": ["dir", "list", "ls", "show"],
+    "answer": "ls"
+  },
+  {
+    "id": 8,
+    "question": "Which SQL keyword is used to retrieve data from a database?",
+    "options": ["GET", "FETCH", "RETRIEVE", "SELECT"],
+    "answer": "SELECT"
+  }
+]
