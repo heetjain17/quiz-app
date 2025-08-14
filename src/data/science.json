@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "question": "What is the chemical symbol for Gold?",
+    "options": ["Go", "Ag", "Au", "Gd"],
+    "answer": "Au"
+  },
+  {
+    "id": 2,
+    "question": "What is considered the 'powerhouse' of an animal cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondrion", "Cell Wall"],
+    "answer": "Mitochondrion"
+  },
+  {
+    "id": 3,
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Argon", "Nitrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 4,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "id": 5,
+    "question": "What is the speed of light in a vacuum?",
+    "options": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "500,000 km/s",
+      "1,000,000 km/s"
+    ],
+    "answer": "300,000 km/s"
+  },
+  {
+    "id": 6,
+    "question": "In physics, what is the unit of electric resistance?",
+    "options": ["Ampere", "Volt", "Watt", "Ohm"],
+    "answer": "Ohm"
+  },
+  {
+    "id": 7,
+    "question": "What type of star is the Sun?",
+    "options": ["Red Giant", "White Dwarf", "Yellow Dwarf", "Red Supergiant"],
+    "answer": "Yellow Dwarf"
+  },
+  {
+    "id": 8,
+    "question": "What process do plants use to convert light energy into chemical energy?",
+    "options": ["Respiration", "Transpiration", "Photosynthesis", "Osmosis"],
+    "answer": "Photosynthesis"
+  }
+]

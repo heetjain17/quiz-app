@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "question": "In which year did World War II end?",
+    "options": ["1943", "1945", "1950", "1939"],
+    "answer": "1945"
+  },
+  {
+    "id": 2,
+    "question": "The ancient city of Machu Picchu is located in which modern-day country?",
+    "options": ["Brazil", "Mexico", "Colombia", "Peru"],
+    "answer": "Peru"
+  },
+  {
+    "id": 3,
+    "question": "Who was the first Emperor of Rome?",
+    "options": ["Julius Caesar", "Nero", "Augustus", "Constantine"],
+    "answer": "Augustus"
+  },
+  {
+    "id": 4,
+    "question": "The Hundred Years' War was primarily fought between which two countries?",
+    "options": [
+      "Spain and Portugal",
+      "England and France",
+      "Rome and Carthage",
+      "Germany and Russia"
+    ],
+    "answer": "England and France"
+  },
+  {
+    "id": 5,
+    "question": "In which civilization were hieroglyphics used as a primary writing system?",
+    "options": [
+      "Ancient Rome",
+      "Ancient Greece",
+      "Ancient Egypt",
+      "Mesopotamia"
+    ],
+    "answer": "Ancient Egypt"
+  },
+  {
+    "id": 6,
+    "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+    "options": [
+      "Joseph Stalin",
+      "Vladimir Lenin",
+      "Mikhail Gorbachev",
+      "Nikita Khrushchev"
+    ],
+    "answer": "Nikita Khrushchev"
+  },
+  {
+    "id": 7,
+    "question": "The Magna Carta was a foundational document signed in which country?",
+    "options": ["France", "England", "Spain", "Italy"],
+    "answer": "England"
+  },
+  {
+    "id": 8,
+    "question": "The Renaissance began in which European country?",
+    "options": ["France", "Spain", "Italy", "England"],
+    "answer": "Italy"
+  }
+]

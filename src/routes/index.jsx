@@ -8,17 +8,17 @@ function HomePage() {
   return (
     <div className="bg-neutral-950 min-h-screen p-4 sm:p-6 lg:p-8">
       <div className="space-y-8 md:space-y-12 max-w-6xl mx-auto">
-        {/* === CORRECTED HEADER SECTION === */}
+        {/* Header */}
         <div className="text-center py-12 md:py-16 lg:py-20">
           <h1 className="text-5xl md:text-6xl font-extrabold bg-gradient-to-r from-blue-500 to-cyan-400 text-transparent bg-clip-text">
-            The Quiz Zone
+            The Quiz App
           </h1>
           <p className="mt-4 text-lg text-gray-400 max-w-2xl mx-auto">
             Choose a category below to start your challenge.
           </p>
         </div>
 
-        {/* Grid for Genre Cards - No changes needed here */}
+        {/* Genre Cards */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
           {genreData.map((genre) => (
             <Link

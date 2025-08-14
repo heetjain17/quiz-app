@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "question": "Who directed the 1994 film 'Pulp Fiction'?",
+    "options": [
+      "Steven Spielberg",
+      "Martin Scorsese",
+      "Quentin Tarantino",
+      "James Cameron"
+    ],
+    "answer": "Quentin Tarantino"
+  },
+  {
+    "id": 2,
+    "question": "Which movie features the famous line, 'Here's looking at you, kid.'?",
+    "options": [
+      "The Godfather",
+      "Casablanca",
+      "Gone with the Wind",
+      "Citizen Kane"
+    ],
+    "answer": "Casablanca"
+  },
+  {
+    "id": 3,
+    "question": "In the movie 'The Matrix', what color pill does Neo take?",
+    "options": ["Blue", "Green", "Yellow", "Red"],
+    "answer": "Red"
+  },
+  {
+    "id": 4,
+    "question": "Who played the character of Iron Man in the Marvel Cinematic Universe?",
+    "options": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "answer": "Robert Downey Jr."
+  },
+  {
+    "id": 5,
+    "question": "What is the name of the AI in '2001: A Space Odyssey'?",
+    "options": ["J.A.R.V.I.S.", "Skynet", "HAL 9000", "GLaDOS"],
+    "answer": "HAL 9000"
+  },
+  {
+    "id": 6,
+    "question": "Which film won the first-ever Academy Award for Best Picture?",
+    "options": ["The Jazz Singer", "Metropolis", "Wings", "Sunrise"],
+    "answer": "Wings"
+  },
+  {
+    "id": 7,
+    "question": "What is the highest-grossing film of all time (unadjusted for inflation) as of 2023?",
+    "options": [
+      "Titanic",
+      "Avengers: Endgame",
+      "Avatar",
+      "Star Wars: The Force Awakens"
+    ],
+    "answer": "Avatar"
+  },
+  {
+    "id": 8,
+    "question": "In 'The Lord of the Rings', who is the original owner of the One Ring?",
+    "options": ["Frodo Baggins", "Sauron", "Bilbo Baggins", "Gollum"],
+    "answer": "Sauron"
+  }
+]

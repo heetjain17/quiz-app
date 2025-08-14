@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "question": "Which country won the first-ever FIFA World Cup in 1930?",
+    "options": ["Brazil", "Argentina", "Uruguay", "Italy"],
+    "answer": "Uruguay"
+  },
+  {
+    "id": 2,
+    "question": "In basketball, how many points is a free throw worth?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "One"
+  },
+  {
+    "id": 3,
+    "question": "Which athlete has won the most Olympic medals in history?",
+    "options": [
+      "Usain Bolt",
+      "Larisa Latynina",
+      "Michael Phelps",
+      "Paavo Nurmi"
+    ],
+    "answer": "Michael Phelps"
+  },
+  {
+    "id": 4,
+    "question": "What is the national sport of Canada (by law for winter)?",
+    "options": ["Lacrosse", "Ice Hockey", "Curling", "Canadian Football"],
+    "answer": "Ice Hockey"
+  },
+  {
+    "id": 5,
+    "question": "Who is often called 'The Greatest' in the sport of boxing?",
+    "options": [
+      "Mike Tyson",
+      "Rocky Marciano",
+      "Muhammad Ali",
+      "Floyd Mayweather"
+    ],
+    "answer": "Muhammad Ali"
+  },
+  {
+    "id": 6,
+    "question": "In cricket, what does 'LBW' stand for?",
+    "options": [
+      "Long Ball Wide",
+      "Leg Before Wicket",
+      "Left Behind Wicket",
+      "Lost Ball Warning"
+    ],
+    "answer": "Leg Before Wicket"
+  },
+  {
+    "id": 7,
+    "question": "The Masters Tournament is a major championship in which sport?",
+    "options": ["Tennis", "Formula 1", "Cricket", "Golf"],
+    "answer": "Golf"
+  },
+  {
+    "id": 8,
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "options": ["Paris", "London", "Athens", "Rome"],
+    "answer": "Athens"
+  }
+]
